@@ -1,39 +1,46 @@
-Credit Card Fraud Detection App
+Got it! Here’s the README content formatted properly in Markdown so you can directly copy and paste it into your README file:
 
-This project is a Credit Card Fraud Detection App built using Streamlit. The app provides a user-friendly interface to input transaction details and predict the likelihood of fraudulent activity using a pre-trained machine learning model.
+# Credit Card Fraud Detection App
 
-Features
-	•	A machine learning model trained to detect fraudulent transactions.
-	•	Streamlit-based web interface for user interaction.
-	•	Input fields to provide transaction details.
-	•	Real-time prediction of fraud likelihood.
+This project is a **Credit Card Fraud Detection App** built using **Streamlit**. The app provides a user-friendly interface to input transaction details and predict the likelihood of fraudulent activity using a pre-trained machine learning model.
 
-Table of Contents
-	•	Project Overview
-	•	Setup and Installation
-	•	Usage
-	•	File Descriptions
-	•	Technologies Used
-	•	License
+## Features
+- A machine learning model trained to detect fraudulent transactions.
+- Streamlit-based web interface for user interaction.
+- Input fields to provide transaction details.
+- Real-time prediction of fraud likelihood.
 
-Project Overview
+---
 
-The app uses a machine learning model saved as a .pkl (pickle) file to classify transactions as either legitimate or fraudulent. It leverages Streamlit for the frontend and backend, providing a simple and interactive web application.
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Setup and Installation](#setup-and-installation)
+- [Usage](#usage)
+- [File Descriptions](#file-descriptions)
+- [Technologies Used](#technologies-used)
+- [Future Improvements](#future-improvements)
+- [Contributing](#contributing)
 
-Setup and Installation
+---
 
-Prerequisites
+## Project Overview
+The app uses a machine learning model saved as a `.pkl` (pickle) file to classify transactions as either legitimate or fraudulent. It leverages Streamlit for the frontend and backend, providing a simple and interactive web application.
 
+---
+
+## Setup and Installation
+
+### Prerequisites
 Ensure you have the following installed:
-	•	Python (>=3.7)
-	•	pip (Python package manager)
+- Python (>=3.7)
+- pip (Python package manager)
 
-Steps to Run Locally
-	1.	Clone the Repository:
+### Steps to Run Locally
 
-git clone https://github.com/hemany1/Credit-Card-Fraud-Detection-App.git
-cd Credit-Card-Fraud-Detection-App
-
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/hemany1/Credit-Card-Fraud-Detection-App.git
+   cd Credit-Card-Fraud-Detection-App
 
 	2.	Install Dependencies:
 Install the required Python packages:
@@ -76,5 +83,4 @@ Future Improvements
 
 Contributing
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
+Contributions are welcome! Feel free to open an issue or submit a pull 
